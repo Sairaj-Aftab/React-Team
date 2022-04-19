@@ -1,0 +1,15 @@
+.menu ul{
+    margin-bottom: 0;
+    text-align: right;
+}
+.menu ul li{
+    display: inline-block;
+}
+.menu ul li a {
+    display: inline-block;
+    font-size: 18px;
+    font-weight: 500;
+    padding: 0 15px;
+    line-height: 3.5rem;
+    color: #000000;
+}

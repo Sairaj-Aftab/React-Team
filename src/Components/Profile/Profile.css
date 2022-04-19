@@ -1,0 +1,20 @@
+.profile img{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 50%;
+    display: block;
+    margin: auto;
+    box-shadow: 0 0 15px 3px rgba(0, 0, 255, 0.600);
+}
+.profile .social ul li{
+    display: inline-block;
+}
+.profile .card{
+    border: none;
+    box-shadow: 0 0 15px 3px rgba(0, 0, 255, 0.600);
+}
+.profile .social a{
+    font-size: 18px;
+    margin: 0 5px;
+}

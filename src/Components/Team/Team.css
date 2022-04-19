@@ -1,0 +1,19 @@
+.team .card-footer ul{
+    margin-bottom: 0;
+    padding: 0;
+}
+.team .card-footer ul li{
+    display: inline-block;
+}
+.team .card-footer a {
+    display: inline-block;
+    text-decoration: none;
+    font-size: 18px;
+    margin: 0 4px;
+}
+.team{
+    background-color: #fafafa;
+}
+.team img{
+    margin-bottom: 20px;
+}
